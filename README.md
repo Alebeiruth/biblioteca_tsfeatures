@@ -1,4 +1,4 @@
-# Estudos e Pesquisa sobre biblioteca de series temporais utilizadas em Machine Learning
+# Estudos sobre biblioteca tsfeatures de series temporais, utilizada em Machine Learning.
 
 Resumo basicos utilizados em Py.
 
